@@ -1,1 +1,1 @@
-key=''
+key = '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'
